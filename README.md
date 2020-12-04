@@ -1,9 +1,10 @@
-# Mini Social Network Repository
-A simple social network website with basic features such as logging in, registering new account, posting articles & comments, etc. using MVC2 Model.
+# Yellow Moon Shop
+A website with various features for customers to order mooncakes online or for managers to manage shop's products using MVC2 Model & Filter as Main Controller.
 
 # You will find in this repository:
 - src code of project
 - CSS as front-end
+- sample database for MSSQL Server
 
 # Contact me:
 - Github: https://github.com/longg20
