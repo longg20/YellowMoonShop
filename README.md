@@ -1,4 +1,4 @@
-# Yellow Moon Shop
+# Yellow Moon Shop Repository
 A website with various features for customers to order mooncakes online or for managers to manage shop's products using MVC2 Model & Filter as Main Controller.
 
 # You will find in this repository:
